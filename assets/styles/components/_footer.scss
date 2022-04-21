@@ -1,0 +1,42 @@
+footer {
+    background-color: #472706;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 50px;
+    padding-top: 20px;
+
+    p {
+        color: #fff;
+        padding-top: 10px;
+        text-align: left;
+        font-size: 1.1rem;
+        font-weight: bold;
+        font-style: italic;
+
+        @include respond(phone){
+            text-align: center;
+            font-size: 1rem;
+        }
+
+        a {
+            color: #F18C00;
+        }
+    }
+
+    .pnt {
+        display: flex;
+        padding: 10px;
+
+        p {
+            padding: 0px 3px;
+            @include respond(phone){
+                text-align: center;
+                font-size: 1rem;
+            }
+        }
+        .c {
+            color: #F18C00;
+        }
+    }
+}
