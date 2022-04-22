@@ -51,7 +51,7 @@ const Navbar = () => {
 
                     <div style={{height: isSidebarOpen? "60vh": 0}} className="sidebar">
                         
-                        <a href="#">ARABPAPER</a>
+                        <a href="#">VINSMOKE SANJI</a>
                         <a href="#tokenomics">TOKENOMICS</a>
                         <a href="#buy">BUY NOW</a>
                         <a href="#features">FEATURES</a>
