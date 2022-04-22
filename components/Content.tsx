@@ -148,7 +148,7 @@ const Content = () => {
                 </div>
                 <div className="card">
                   <div className="img-inner">
-                    <a href="#">
+                    <a href="https://twitter.com/VIN_SMOKESANJI">
                       <img src="twt-web.png" />
                     </a>
                   </div>
