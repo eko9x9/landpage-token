@@ -31,7 +31,7 @@ const Navbar = () => {
                     <a href="#community">COMMUNITY</a>
                 </li>
             </ul>
-
+            <h3 style={{display: isSidebarOpen? "none": "block"}} className="text-logo-mb">VINSMOKE SANJI</h3>
             <ul className="list-menu mb">
                 <li>
                     {

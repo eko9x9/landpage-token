@@ -5,6 +5,8 @@
     position: fixed;
     top: 0;
     width: 100%;
+    -webkit-box-shadow: 0px 8px 15px -4px rgba(0,0,0,0.37); 
+    box-shadow: 0px 8px 15px -4px rgba(0,0,0,0.37);
 
     .flex {
         height: 100%;
@@ -40,6 +42,15 @@
     .dk {
         @include respond(max-1200){
             display: none !important;
+        }
+    }
+
+    .text-logo-mb {
+        color: #ffff;
+        font-size: 1rem;
+        text-align: center;
+        @include respond(min-1200){
+            display: none;
         }
     }
 }
@@ -90,7 +101,7 @@
     padding: 10px 15px;
     border: none;
     font-size: 2rem;
-    margin-right: -20px;
+    margin-right: -35px;
     @include respond(min-1200){
         display: none;
     }
