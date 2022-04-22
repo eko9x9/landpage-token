@@ -32,7 +32,7 @@ const Header = () => {
                         <p>Renounced</p>
                         <p>Locked</p>
                       </div>
-                      <button>VIEW SANJIPAPER</button>
+                      <button onClick={() => alert("Coming Soon!")}>VIEW SANJIPAPER</button>
                     </div>
                   </div>
                   
