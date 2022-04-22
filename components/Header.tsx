@@ -6,15 +6,14 @@ const Header = () => {
           <div className="container">
               <div className="grid">
                   <div className="text-header">
-                    <h2>YOSHI STOPPED RACING AND STARTED HIS VERY OWN FUEL COMPANY!</h2>
+                    <h2>VINSMOKE SANJI!</h2>
                     <h3>THE NEXT BIGGEST MEME-UTILITY TOKEN ON THE BINANCE SMART CHAIN.</h3>
-                    <p>ArabYoshi looks to create a fun and social meme-utility token to bring the community together whilst providing enticing features! ArabYoshi will be the next biggest meme token!</p>
-                    <p>Keep reading, there’s much more to ArabYoshi!</p>
+                    <p>Vinsmoke Sanji is a community meme token, ownership will be removed. The project will be developed in the direction of NFT and adventure game to give One Piece fans an experience of the journey across the ocean.</p>
                 </div>
 
                   <div className="img-header">
                     <div className="img-container">
-                        <img src="https://arabyoshi.com/wp-content/uploads/2022/04/web-img-2.png" />
+                        <img src="logo.png" />
                     </div>
                   </div>
               </div>
@@ -29,10 +28,13 @@ const Header = () => {
                     <div className="text-desc">
                       <h3>SECURE & SAFE!</h3>
                       <div className="desc-p">
-                        <p>• Low Tax Fees Liquidity</p>
-                        <p>• Locked Liquidity Year</p>
+                        <p>• 2% Liquidity</p>
+                        <p>• 1% Dev Wallet</p>
                         <p>• Verified Smart Contract</p>
-                        <p>• Anti-Whale Mechanism</p>
+                        <p>• 5% Marketing Wallet </p>
+                        <p>• 5% Marketing Wallet</p>
+                        <p>• Max Transaction 2%</p>
+                        <p>• Max Wallet 4%</p>
                       </div>
                       <button>VIEW ARABPAPER</button>
                     </div>

@@ -51,6 +51,7 @@
             .img-container {
                 width: 500px;
                 @include respond(max-950){
+                    margin-top: 30px;
                     width: 250px;
                 }
                 img {
@@ -93,6 +94,16 @@
                             p {
                                 font-size: 1.3rem;
                                 line-height: 2.5rem;
+                                color: #472807;
+                                @include respond(max-800){
+                                    font-size: 1.2rem;
+                                }
+                            }
+
+                            .s-title {
+                                font-size: 2rem;
+                                line-height: 2.5rem;
+                                color: #472807;
                                 @include respond(max-800){
                                     font-size: 1.2rem;
                                 }
@@ -119,6 +130,7 @@
                     .img-container {
                         width: 350px;
                         @include respond(phone){
+                            margin-top: 10px;
                             width: 250px;
                         }
                         img {

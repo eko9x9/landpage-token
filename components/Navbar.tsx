@@ -8,12 +8,12 @@ const Navbar = () => {
           <div className="container flex">
             <div className="logo">
                 <div className="img-container">
-                    <img src="https://arabiandoge.io/wp-content/uploads/2022/03/arabiandoge-horzontal-web-logo-600-300x148.png" />
+                    <img src="web-logo.png" />
                 </div>
             </div>
             <ul className="list-menu dk">
                 <li>
-                    <a href="#">ARABPAPER</a>
+                    <a href="#">VINSMOKE SANJI</a>
                 </li>
                 <li>
                     <a href="#tokenomics">TOKENOMICS</a>

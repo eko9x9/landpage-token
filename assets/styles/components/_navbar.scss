@@ -1,7 +1,7 @@
 .navbar {
     height: 80px;
     background-color: #73E461;
-    overflow: hidden;
+    overflow: hidden !important;
     position: fixed;
     top: 0;
     width: 100%;
@@ -15,7 +15,8 @@
         }
 
         .img-container {
-            width: 100px;
+            width: 70px;
+            margin-left: -20px;
             img {
                 width: 100%;
                 height: auto;
@@ -88,8 +89,8 @@
     color: #ffff !important;
     padding: 10px 15px;
     border: none;
-    font-weight: bold;
     font-size: 2rem;
+    margin-right: -20px;
     @include respond(min-1200){
         display: none;
     }

@@ -14,15 +14,15 @@ const Content = () => {
                     <img src="/tokenomics-gold.png" />
                   </div>
                   <div className="text-inner">
-                    <h3>3% LIQUIDITY</h3>
-                    <h3>3% MARKETING</h3>
-                    <h3>3% USE CASE DEVELOPMENT</h3>
-                    <h3>1% TEAM</h3>
+                    <h3>92% Liquidity Pool</h3>
+                    <h3>100% Lock</h3>
+                    <h3>4% Dev Wallet</h3>
+                    <h3>4% Marketing Wallet</h3>
                   </div>
 
                   <div className="token-supply">
                     <p>Token Supply: 1,000,000,000</p>
-                    <p>Token burns will occur to sustain the value of the ArabYoshi</p>
+                    <p>Token burns will occur to sustain the value of the SANJI</p>
                   </div>
                 </div>
 
@@ -58,12 +58,12 @@ const Content = () => {
               <div className="card w-color">
                 <div className="inner-card flex">
                   <div style={{textAlign: "right"}} className="text">
-                    <h2>ARABYOSHI GO-KART GIVEAWAY!…</h2>
-                    <p>At 1500 holders we will be giving away our very own Go-Kart! Giveaway will be available for those holding a set amount of ArabYoshi.</p>
+                    <h2>VINSMOKE SANJI GO-KART GIVEAWAY!…</h2>
+                    <p>At 1500 holders we will be giving away our very own Go-Kart! Giveaway will be available for those holding a set amount of SANJI.</p>
                   </div>
-                  <div className="img-inner">
+                  {/* <div className="img-inner">
                       <img src="/doge-relfections.png" />
-                  </div>
+                  </div> */}
                 </div>
               </div>
 
@@ -71,8 +71,8 @@ const Content = () => {
                 <div className="card">
                   <div className="inner-card">
                     <div className="text">
-                      <h3>ARABYOSHI NFTS</h3>
-                      <p>After the launch of ArabYoshi Token, we will be launching a unique ArabYoshi NFT collection of 888. Allowing These NFTs will be integrated into our P2E game and gives you unique discounts</p>
+                      <h3>SANJI NFTS</h3>
+                      <p>After the launch of SANJI Token, we will be launching a unique SANJI NFT collection of 888. Allowing These NFTs will be integrated into our P2E game and gives you unique discounts</p>
                     </div>
                   </div>
                 </div>
@@ -80,23 +80,23 @@ const Content = () => {
                   <div className="inner-card">
                     <div className="text">
                       <h3>MARKETPLACE</h3>
-                      <p>A unique marketplace where you can trade your ArabYoshi NFTs & NFT game assets! We will introduce our ArabYoshiSwap on the marketplace so you can purchase tokens directly from the platform. Other cryptocurrencies will be integrated into the marketplace.</p>
+                      <p>A unique marketplace where you can trade your SANJI NFTs & NFT game assets! We will introduce our SANJISwap on the marketplace so you can purchase tokens directly from the platform. Other cryptocurrencies will be integrated into the marketplace.</p>
                     </div>
                   </div>
                 </div>
                 <div className="card">
                   <div className="inner-card">
                     <div className="text">
-                      <h3>ARABYOSHI BONANZA</h3>
-                      <p>Our very own Party P2E game, play with the community, friends & family in various mini party games to earn ArabYoshi tokens. Compete in the leaderboard for weekly prizes & discover new NFT assets for your ArabYoshi.</p>
+                      <h3>SANJI BONANZA</h3>
+                      <p>Our very own Party P2E game, play with the community, friends & family in various mini party games to earn SANJI tokens. Compete in the leaderboard for weekly prizes & discover new NFT assets for your SANJI.</p>
                     </div>
                   </div>
                 </div>
                 <div className="card">
                   <div className="inner-card">
                     <div className="text">
-                      <h3>ARABYOSHI MERCH</h3>
-                      <p>We will create the most unique Merch for our ArabYoshi. Show off to the world our community through our shirts, hoodies, hats, coffee mugs, etc. We will collab with well known clothing brands as we grow, we will also marker-icon unique 1/1 merch for your ArabYoshi NFT.</p>
+                      <h3>SANJI MERCH</h3>
+                      <p>We will create the most unique Merch for our SANJI. Show off to the world our community through our shirts, hoodies, hats, coffee mugs, etc. We will collab with well known clothing brands as we grow, we will also marker-icon unique 1/1 merch for your SANJI NFT.</p>
                     </div>
                   </div>
                 </div>
@@ -124,7 +124,7 @@ const Content = () => {
             </div>
           </div>
 
-          <div id="roadmap" className="roadmap">
+          {/* <div id="roadmap" className="roadmap">
             <h2>ROADMAP</h2>
             <div className="container">
               <div className="grid">
@@ -134,15 +134,15 @@ const Content = () => {
                     <div className="img-inner">
                       <img src="roadmap1-150x150.png" />
                     </div>
-                    <p>ArabYoshi Vision & Plan</p>
+                    <p>SANJI Vision & Plan</p>
                     <p>Team Formation</p>
                     <p>Unique Smart Contract Development</p>
                     <p>Website V1 Launch</p>
-                    <p>Launch ArabYoshi Token</p>
+                    <p>Launch SANJI Token</p>
                     <p>Advertising Campaigns</p>
                     <p>Influencer Marketing</p>
                     <p>Telegram Call Groups</p>
-                    <p>Preview ArabYoshi Collection</p>
+                    <p>Preview SANJI Collection</p>
                   </div>
                 </div>
                 <div className="card">
@@ -151,15 +151,15 @@ const Content = () => {
                     <div className="img-inner">
                       <img src="roadmap2-200x200.png" />
                     </div>
-                    <p>ArabYoshi Vision & Plan</p>
+                    <p>SANJI Vision & Plan</p>
                     <p>Team Formation</p>
                     <p>Unique Smart Contract Development</p>
                     <p>Website V1 Launch</p>
-                    <p>Launch ArabYoshi Token</p>
+                    <p>Launch SANJI Token</p>
                     <p>Advertising Campaigns</p>
                     <p>Influencer Marketing</p>
                     <p>Telegram Call Groups</p>
-                    <p>Preview ArabYoshi Collection</p>
+                    <p>Preview SANJI Collection</p>
                   </div>
                 </div>
                 <div className="card">
@@ -168,15 +168,15 @@ const Content = () => {
                     <div className="img-inner">
                       <img src="roadmap3-200x200.png" />
                     </div>
-                    <p>ArabYoshi Vision & Plan</p>
+                    <p>SANJI Vision & Plan</p>
                     <p>Team Formation</p>
                     <p>Unique Smart Contract Development</p>
                     <p>Website V1 Launch</p>
-                    <p>Launch ArabYoshi Token</p>
+                    <p>Launch SANJI Token</p>
                     <p>Advertising Campaigns</p>
                     <p>Influencer Marketing</p>
                     <p>Telegram Call Groups</p>
-                    <p>Preview ArabYoshi Collection</p>
+                    <p>Preview SANJI Collection</p>
                   </div>
                 </div>
                 <div className="card">
@@ -185,20 +185,20 @@ const Content = () => {
                     <div className="img-inner">
                       <img src="roadmap4-200x200.png" />
                     </div>
-                    <p>ArabYoshi Vision & Plan</p>
+                    <p>SANJI Vision & Plan</p>
                     <p>Team Formation</p>
                     <p>Unique Smart Contract Development</p>
                     <p>Website V1 Launch</p>
-                    <p>Launch ArabYoshi Token</p>
+                    <p>Launch SANJI Token</p>
                     <p>Advertising Campaigns</p>
                     <p>Influencer Marketing</p>
                     <p>Telegram Call Groups</p>
-                    <p>Preview ArabYoshi Collection</p>
+                    <p>Preview SANJI Collection</p>
                   </div>
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div id="team" className="team">
             <div className="container">
@@ -255,7 +255,7 @@ const Content = () => {
 
                 <div className="card">
                   <div className="img-inner">
-                    <a href="#">
+                    <a href="https://t.me/VinsmokeSanjiOfficial">
                       <img src="tg-web.png" />
                     </a>
                   </div>
@@ -271,7 +271,7 @@ const Content = () => {
                     </a>
                   </div>
                   <div className="text">
-                    <h3>ARABYOSHI INSTA</h3>
+                    <h3>VINSMOKE SANJI INSTA</h3>
                     <p>Mmmmm all our graphical content!</p>
                   </div>
                 </div>
@@ -282,8 +282,8 @@ const Content = () => {
                     </a>
                   </div>
                   <div className="text">
-                    <h3>ARABYOSHI TWITTER</h3>
-                    <p>Keep up to date with all the latest about ArabYoshi.</p>
+                    <h3>VINSMOKE SANJI TWITTER</h3>
+                    <p>Keep up to date with all the latest about SANJI.</p>
                     
                   </div>
                 </div>
