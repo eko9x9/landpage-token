@@ -17,7 +17,6 @@ const Content = () => {
                     <h3>94% Liquidity Pool</h3>
                     <h3>3% Dev Wallet</h3>
                     <h3>3% Marketing Wallet</h3>
-                    <h3>4% Marketing Wallet</h3>
                     <h2 style={{fontSize: "1.8rem"}}>Tax</h2>
                     <h3>2% Liquidity</h3>
                     <h3>1% Dev Wallet</h3>
