@@ -22,21 +22,17 @@ const Header = () => {
                 <div className="card">
                   <div className="card-content">
                     <div className="img-container">
-                      <img src="https://arabyoshi.com/wp-content/uploads/2022/04/web-img-4.png" />
+                      <img src="sanji-logo-cl.jpg" />
                     </div>
 
                     <div className="text-desc">
                       <h3>SECURE & SAFE!</h3>
                       <div className="desc-p">
-                        <p>• 2% Liquidity</p>
-                        <p>• 1% Dev Wallet</p>
-                        <p>• Verified Smart Contract</p>
-                        <p>• 5% Marketing Wallet </p>
-                        <p>• 5% Marketing Wallet</p>
-                        <p>• Max Transaction 2%</p>
-                        <p>• Max Wallet 4%</p>
+                        <p>Verified Smart Contract</p>
+                        <p>Renounced</p>
+                        <p>Locked</p>
                       </div>
-                      <button>VIEW ARABPAPER</button>
+                      <button>VIEW SANJIPAPER</button>
                     </div>
                   </div>
                   

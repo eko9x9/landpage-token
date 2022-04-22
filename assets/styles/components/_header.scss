@@ -1,5 +1,7 @@
 .header {
-    margin-top: 120px;
+    padding-top: 120px;
+    padding-bottom: 40px;
+    background-color: #1B1B1B;
 
     .container {
         max-width: 1200px;
@@ -14,7 +16,7 @@
             h2 {
                 font-style: italic;
                 font-weight: 900;
-                color: #582E01;
+                color: #fff;
                 font-size: 3rem;
                 text-align: center;
                 @include respond(max-950){
@@ -36,7 +38,7 @@
             p {
                 text-align: center;
                 padding-top: 20px;
-                color: #472807;
+                color: #ffff;
                 font-size: 1.1rem;
                 font-weight: bold;
             }
@@ -65,7 +67,7 @@
             margin-top: 50px;
 
             .card {
-                background-color: #61D94E;
+                background-color: #EB8A08;
                 border-radius: 100px;
                 padding: 20px;
     
@@ -81,7 +83,7 @@
                         padding: 20px;
                         text-align: center;
                         h3 {
-                            color: #fff;
+                            color: #472807;
                             font-size: 3rem;
                             font-weight: 900;
                             @include respond(max-800){
@@ -94,7 +96,7 @@
                             p {
                                 font-size: 1.3rem;
                                 line-height: 2.5rem;
-                                color: #472807;
+                                color: #fff;
                                 @include respond(max-800){
                                     font-size: 1.2rem;
                                 }
@@ -128,6 +130,7 @@
                     }
         
                     .img-container {
+                        padding: 20px;
                         width: 350px;
                         @include respond(phone){
                             margin-top: 10px;

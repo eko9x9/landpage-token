@@ -11,13 +11,19 @@ const Content = () => {
                 <div className="tokenomics">
                   <h2>TOKENOMICS</h2>
                   <div className="img-inner">
-                    <img src="/tokenomics-gold.png" />
+                    <img src="/sanji-n.jpg" />
                   </div>
                   <div className="text-inner">
-                    <h3>92% Liquidity Pool</h3>
-                    <h3>100% Lock</h3>
-                    <h3>4% Dev Wallet</h3>
+                    <h3>94% Liquidity Pool</h3>
+                    <h3>3% Dev Wallet</h3>
+                    <h3>3% Marketing Wallet</h3>
                     <h3>4% Marketing Wallet</h3>
+                    <h2 style={{fontSize: "1.8rem"}}>Tax</h2>
+                    <h3>2% Liquidity</h3>
+                    <h3>1% Dev Wallet</h3>
+                    <h3>5% Marketing Wallet </h3>
+                    <h3>Max Transaction 2%</h3>
+                    <h3>Max Wallet 4%</h3>
                   </div>
 
                   <div className="token-supply">
@@ -124,130 +130,6 @@ const Content = () => {
             </div>
           </div>
 
-          {/* <div id="roadmap" className="roadmap">
-            <h2>ROADMAP</h2>
-            <div className="container">
-              <div className="grid">
-                <div className="card">
-                  <div className="content">
-                    <h3>PHASE 1</h3>
-                    <div className="img-inner">
-                      <img src="roadmap1-150x150.png" />
-                    </div>
-                    <p>SANJI Vision & Plan</p>
-                    <p>Team Formation</p>
-                    <p>Unique Smart Contract Development</p>
-                    <p>Website V1 Launch</p>
-                    <p>Launch SANJI Token</p>
-                    <p>Advertising Campaigns</p>
-                    <p>Influencer Marketing</p>
-                    <p>Telegram Call Groups</p>
-                    <p>Preview SANJI Collection</p>
-                  </div>
-                </div>
-                <div className="card">
-                  <div className="content">
-                    <h3>PHASE 1</h3>
-                    <div className="img-inner">
-                      <img src="roadmap2-200x200.png" />
-                    </div>
-                    <p>SANJI Vision & Plan</p>
-                    <p>Team Formation</p>
-                    <p>Unique Smart Contract Development</p>
-                    <p>Website V1 Launch</p>
-                    <p>Launch SANJI Token</p>
-                    <p>Advertising Campaigns</p>
-                    <p>Influencer Marketing</p>
-                    <p>Telegram Call Groups</p>
-                    <p>Preview SANJI Collection</p>
-                  </div>
-                </div>
-                <div className="card">
-                  <div className="content">
-                    <h3>PHASE 1</h3>
-                    <div className="img-inner">
-                      <img src="roadmap3-200x200.png" />
-                    </div>
-                    <p>SANJI Vision & Plan</p>
-                    <p>Team Formation</p>
-                    <p>Unique Smart Contract Development</p>
-                    <p>Website V1 Launch</p>
-                    <p>Launch SANJI Token</p>
-                    <p>Advertising Campaigns</p>
-                    <p>Influencer Marketing</p>
-                    <p>Telegram Call Groups</p>
-                    <p>Preview SANJI Collection</p>
-                  </div>
-                </div>
-                <div className="card">
-                  <div className="content">
-                    <h3>PHASE 1</h3>
-                    <div className="img-inner">
-                      <img src="roadmap4-200x200.png" />
-                    </div>
-                    <p>SANJI Vision & Plan</p>
-                    <p>Team Formation</p>
-                    <p>Unique Smart Contract Development</p>
-                    <p>Website V1 Launch</p>
-                    <p>Launch SANJI Token</p>
-                    <p>Advertising Campaigns</p>
-                    <p>Influencer Marketing</p>
-                    <p>Telegram Call Groups</p>
-                    <p>Preview SANJI Collection</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div> */}
-
-          <div id="team" className="team">
-            <div className="container">
-              <h2>TEAM</h2>
-              <div className="grid">
-
-                <div className="card">
-                  <div className="name">
-                    <h3>STEVE</h3>
-                  </div>
-                  <div className="desc">
-                    <p>Blockchain Developer</p>
-                    <p>with 5 years of</p>
-                    <p>experience.</p>
-                  </div>
-                </div>
-                <div className="card">
-                  <div className="name">
-                    <h3>MIGUEL</h3>
-                  </div>
-                  <div className="desc">
-                    <p>Fullstack Developer.</p>
-                    <p>Graphic Designer.</p>
-                  </div>
-                </div>
-                <div className="card">
-                  <div className="name">
-                    <h3>FELIX</h3>
-                  </div>
-                  <div className="desc">
-                    <p>Marketing for 6 years.</p>
-                    <p>Lead Community</p>
-                    <p>experience.</p>
-                  </div>
-                </div>
-                <div className="card">
-                  <div className="name">
-                    <h3>MIKEY</h3>
-                  </div>
-                  <div className="desc">
-                    <p>Artist & Frontend</p>
-                    <p>Developer</p>
-                  </div>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-
           <div id="community" className="community">
             <h2>COMMUNITY</h2>
             <div className="container">
@@ -262,17 +144,6 @@ const Content = () => {
                   <div className="text">
                     <h3>TELEGRAM</h3>
                     <p>Join our Telegram to meet an amazing community!</p>
-                  </div>
-                </div>
-                <div className="card">
-                  <div className="img-inner">
-                    <a href="#">
-                      <img src="insta-web.png" />
-                    </a>
-                  </div>
-                  <div className="text">
-                    <h3>VINSMOKE SANJI INSTA</h3>
-                    <p>Mmmmm all our graphical content!</p>
                   </div>
                 </div>
                 <div className="card">

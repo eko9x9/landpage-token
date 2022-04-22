@@ -1,6 +1,6 @@
 .navbar {
     height: 80px;
-    background-color: #73E461;
+    background-color: #1B1B1B;
     overflow: hidden !important;
     position: fixed;
     top: 0;
@@ -51,7 +51,7 @@
     z-index: -1;
     top: 0;
     left: 0;
-    background-color: #73E461;
+    background-color: #1B1B1B;
     overflow-x: hidden;
     transition: 0.5s;
     width: 100%;
@@ -85,7 +85,7 @@
 
 .openbtn {
     cursor: pointer;
-    background-color: #73E461;
+    background-color: #1B1B1B;
     color: #ffff !important;
     padding: 10px 15px;
     border: none;
@@ -97,5 +97,5 @@
 }
 
 .openbtn:hover {
-    background-color: #73E461;
+    background-color: #1B1B1B;
 }

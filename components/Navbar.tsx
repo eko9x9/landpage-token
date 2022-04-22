@@ -13,7 +13,7 @@ const Navbar = () => {
             </div>
             <ul className="list-menu dk">
                 <li>
-                    <a href="#">VINSMOKE SANJI</a>
+                    <a onClick={() => alert("Coming Soon!")} href="#">SANJIPAPER</a>
                 </li>
                 <li>
                     <a href="#tokenomics">TOKENOMICS</a>
@@ -26,12 +26,6 @@ const Navbar = () => {
                 </li>
                 <li>
                     <a href="#partnerships">PARTNERSHIPS</a>
-                </li>
-                <li>
-                    <a href="#roadmap">ROADMAP</a>
-                </li>
-                <li>
-                    <a href="#team">TEAM</a>
                 </li>
                 <li>
                     <a href="#community">COMMUNITY</a>
@@ -51,13 +45,11 @@ const Navbar = () => {
 
                     <div style={{height: isSidebarOpen? "60vh": 0}} className="sidebar">
                         
-                        <a href="#">VINSMOKE SANJI</a>
+                        <a onClick={() => alert("Coming Soon!")} href="#">SANJIPAPER</a>
                         <a href="#tokenomics">TOKENOMICS</a>
                         <a href="#buy">BUY NOW</a>
                         <a href="#features">FEATURES</a>
                         <a href="#partnerships">PARTNERSHIPS</a>
-                        <a href="#roadmap">ROADMAP</a>
-                        <a href="#team">TEAM</a>
                         <a href="#community">COMMUNITY</a>
                     </div>
                 </li>
