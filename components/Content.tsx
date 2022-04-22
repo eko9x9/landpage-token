@@ -25,10 +25,6 @@ const Content = () => {
                     <h3>Max Wallet 4%</h3>
                   </div>
 
-                  <div className="token-supply">
-                    <p>Token Supply: 1,000,000,000</p>
-                    <p>Token burns will occur to sustain the value of the SANJI</p>
-                  </div>
                 </div>
 
                 <div id="buy" className="market">
